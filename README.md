@@ -1,3 +1,3 @@
-# This repo house deployment setup for udagram web application on AWS Elastic Kubernetes Service through docker and Travis CI
+# This repo contains the microsevices pattern for Udagram application depolyed through Docker, Travis and AWS Elastic Kubernetes Service (EKS)
 
 
